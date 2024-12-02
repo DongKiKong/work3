@@ -1,6 +1,0 @@
-streamlit
-pandas
-geopandas
-folium
-streamlit_folium
-pyogrio
